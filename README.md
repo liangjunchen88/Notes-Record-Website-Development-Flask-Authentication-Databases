@@ -3,4 +3,4 @@ Developed a web application which provides users with authentication and notes m
 
 <img title="a title" alt="Alt text" src="login.PNG">
 <img title="a title" alt="Alt text" src="signup.PNG">
-<img title="a title" alt="Alt text" src="notes.PNG">
+<img title="a title" alt="Alt text" src="note.PNG">
